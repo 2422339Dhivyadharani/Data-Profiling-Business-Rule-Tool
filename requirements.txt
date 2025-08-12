@@ -1,8 +1,0 @@
-pytest
-pandas
-streamlit
-matplotlib
-seaborn
-openpyxl
-pdfkit
-fpdf
